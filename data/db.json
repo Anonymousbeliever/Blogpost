@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "c5da",
+      "auther": "Charo",
+      "title": "Cyber Attacks",
+      "message": "Cyber attacks have become a major concern for individuals, businesses, and governments. A cyber attack is an attempt by hackers or malicious actors to gain unauthorized access to digital systems, steal sensitive data, or disrupt operations. Understanding the types, impacts, and preventive measures against cyber attacks is crucial for ensuring digital security."
+    },
+    {
+      "id": "57e1",
+      "auther": "Malik",
+      "title": "Backend Development",
+      "message": "Backend development refers to the server-side of web development that focuses on how a website or web application works behind the scenes. It involves managing databases, server logic, application architecture, and APIs to ensure smooth operation and functionality. Backend developers build and maintain the core functionality of an application that users don't directly see but rely on for a seamless experience."
+    },
+    {
+      "id": "bf93",
+      "auther": "Terry",
+      "title": "Frontend Development",
+      "message": "Frontend development focuses on the user interface (UI) and user experience (UX) of a website or application. It involves creating everything that users see and interact with directly in their browsers, ensuring that the design is both visually appealing and functionally efficient."
+    }
+  ]
+}
